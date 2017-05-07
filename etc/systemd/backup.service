@@ -1,0 +1,8 @@
+[Unit]
+Description=Pi backup
+
+[Service]
+ExecStart=/mnt/internal1/Scripts/rsync/backup.sh
+
+[Install]
+WantedBy=default.target
