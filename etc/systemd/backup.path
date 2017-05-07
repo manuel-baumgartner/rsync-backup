@@ -1,0 +1,5 @@
+[Unit]
+Description=Check for changes and perform backup
+
+[Path]
+PathChanged=/mnt/pi/pi-os
