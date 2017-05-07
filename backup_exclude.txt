@@ -1,0 +1,17 @@
+#external
+/mnt/external1/Public/Cloud/data/mba/files/Movies
+/mnt/external1/Public/Cloud/data/mba/files/Music
+/mnt/external1/Public/Cloud/data/mba/files/Audio\ Books
+/mnt/external1/Public/Cloud/data/mba/files/Healy\ Hudson
+
+#os
+/tmp
+/home
+/usr
+/boot
+/mnt
+/lost+found
+/media
+/dev
+/sys
+/proc
