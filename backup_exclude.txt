@@ -9,7 +9,6 @@
 /home
 /usr
 /boot
-/mnt
 /lost+found
 /media
 /dev
